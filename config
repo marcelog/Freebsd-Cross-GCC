@@ -1,0 +1,13 @@
+dist=/export/users/marcelog/tmp/cross-freebsd/dist
+work=/export/users/marcelog/tmp/cross-freebsd/work
+targetdir=/export/users/marcelog/cross-freebsd.2nd
+target=x86_64-pc-freebsd7
+freebsdtarget=amd64
+
+binutils=2.21
+gcc=4.5.2
+gmp=4.3.2
+mpc=0.8.1
+mpfr=2.4.2
+libtool=2.4
+freebsd=7.2_amd64

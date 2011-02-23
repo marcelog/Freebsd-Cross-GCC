@@ -1,0 +1,60 @@
+158c158
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 $i/*.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 $i/*.h \
+162c162
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 acpiio.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 acpiio.h \
+165c165
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 ioctl_*.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 ioctl_*.h \
+168c168
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+171c171
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+175c175
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+179c179
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+182c182
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 rijndael/rijndael.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 rijndael/rijndael.h \
+187c187
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 ${I4BHDRS} \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 ${I4BHDRS} \
+192c192
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+195c195
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+199c199
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+206c206
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+212c212
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 *.h \
+217c217
+< 	${INSTALL} -C -o ${BINOWN} -g ${BINGRP} -m 444 types.h \
+---
+> 	${INSTALL}  -o ${BINOWN} -g ${BINGRP} -m 444 types.h \
